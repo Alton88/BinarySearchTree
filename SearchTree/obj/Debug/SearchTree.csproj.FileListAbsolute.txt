@@ -1,0 +1,6 @@
+c:\users\alton\documents\visual studio 2015\Projects\SearchTree\SearchTree\bin\Debug\SearchTree.exe.config
+c:\users\alton\documents\visual studio 2015\Projects\SearchTree\SearchTree\bin\Debug\SearchTree.exe
+c:\users\alton\documents\visual studio 2015\Projects\SearchTree\SearchTree\bin\Debug\SearchTree.pdb
+c:\users\alton\documents\visual studio 2015\Projects\SearchTree\SearchTree\obj\Debug\SearchTree.exe
+c:\users\alton\documents\visual studio 2015\Projects\SearchTree\SearchTree\obj\Debug\SearchTree.pdb
+C:\Users\Alton\documents\visual studio 2015\Projects\SearchTree\SearchTree\obj\Debug\SearchTree.csprojResolveAssemblyReference.cache
